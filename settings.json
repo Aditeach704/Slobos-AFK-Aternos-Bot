@@ -8,7 +8,7 @@
   "server": {
     "ip": "Bottle-Pixel.aternos.me",
     "port": 12760,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
